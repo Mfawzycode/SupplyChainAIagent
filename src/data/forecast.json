@@ -1,0 +1,7 @@
+[
+  { "month": "May", "inventoryRisk": 48, "delayRisk": 56, "demandPressure": 62 },
+  { "month": "Jun", "inventoryRisk": 52, "delayRisk": 61, "demandPressure": 66 },
+  { "month": "Jul", "inventoryRisk": 57, "delayRisk": 68, "demandPressure": 71 },
+  { "month": "Aug", "inventoryRisk": 63, "delayRisk": 72, "demandPressure": 76 },
+  { "month": "Sep", "inventoryRisk": 59, "delayRisk": 65, "demandPressure": 69 }
+]

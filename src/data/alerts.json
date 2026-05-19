@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ALT-01",
+    "severity": "critical",
+    "title": "Supplier lead-time breach",
+    "message": "Dubai South inbound from Desert Telecom Infra exceeded SLA by 8 days.",
+    "region": "Dubai South"
+  },
+  {
+    "id": "ALT-02",
+    "severity": "warning",
+    "title": "Inventory thinning",
+    "message": "Riyadh Industrial Belt safety stock for Tower Battery Unit fell to 1.6 weeks.",
+    "region": "Riyadh Industrial Belt"
+  },
+  {
+    "id": "ALT-03",
+    "severity": "warning",
+    "title": "Forecast pressure",
+    "message": "Greater Cairo Hub predicts elevated router demand next cycle.",
+    "region": "Greater Cairo Hub"
+  }
+]

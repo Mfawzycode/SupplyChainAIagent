@@ -1,0 +1,34 @@
+[
+  {
+    "id": "SHP-1142",
+    "sku": "Fiber Cable 5G",
+    "supplier": "Desert Telecom Infra",
+    "region": "Dubai South",
+    "status": "Delayed",
+    "delayDays": 8
+  },
+  {
+    "id": "SHP-1198",
+    "sku": "Tower Battery Unit",
+    "supplier": "Emirates Steel Supply",
+    "region": "Riyadh Industrial Belt",
+    "status": "Delayed",
+    "delayDays": 5
+  },
+  {
+    "id": "SHP-1220",
+    "sku": "Network Router X2",
+    "supplier": "Nile Logistics Group",
+    "region": "Greater Cairo Hub",
+    "status": "Delayed",
+    "delayDays": 6
+  },
+  {
+    "id": "SHP-1264",
+    "sku": "Cement Type-A",
+    "supplier": "Gulf Materials LLC",
+    "region": "Muscat Port Corridor",
+    "status": "On Time",
+    "delayDays": 0
+  }
+]
