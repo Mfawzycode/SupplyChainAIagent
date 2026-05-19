@@ -1,0 +1,6 @@
+[
+  { "day": 0, "label": "Baseline", "delayMultiplier": 1, "riskImpact": 0, "note": "Normal operating conditions" },
+  { "day": 7, "label": "Regional tension", "delayMultiplier": 1.2, "riskImpact": 6, "note": "Selective route inspections begin" },
+  { "day": 14, "label": "War disruption", "delayMultiplier": 1.45, "riskImpact": 14, "note": "Primary logistics corridor partially blocked" },
+  { "day": 21, "label": "Extended conflict", "delayMultiplier": 1.7, "riskImpact": 22, "note": "Emergency reroutes and air-freight premiums" }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Gulf Materials LLC",
+    "country": "UAE",
+    "sku": "Cement Type-A",
+    "onTimeRate": 84,
+    "riskScore": 68
+  },
+  {
+    "name": "Emirates Steel Supply",
+    "country": "UAE",
+    "sku": "Tower Battery Unit",
+    "onTimeRate": 72,
+    "riskScore": 81
+  },
+  {
+    "name": "Desert Telecom Infra",
+    "country": "Saudi Arabia",
+    "sku": "Fiber Cable 5G",
+    "onTimeRate": 69,
+    "riskScore": 86
+  },
+  {
+    "name": "Nile Logistics Group",
+    "country": "Egypt",
+    "sku": "Network Router X2",
+    "onTimeRate": 74,
+    "riskScore": 79
+  },
+  {
+    "name": "Peninsula Port Services",
+    "country": "Qatar",
+    "sku": "Tower Battery Unit",
+    "onTimeRate": 91,
+    "riskScore": 45
+  },
+  {
+    "name": "Oman Industrial Connect",
+    "country": "Oman",
+    "sku": "Cement Type-A",
+    "onTimeRate": 88,
+    "riskScore": 49
+  }
+]

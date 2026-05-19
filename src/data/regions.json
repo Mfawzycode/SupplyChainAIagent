@@ -1,0 +1,67 @@
+[
+  {
+    "id": "uae-dubai-south",
+    "country": "UAE",
+    "region": "Dubai South",
+    "lat": 24.8788,
+    "lng": 55.1741,
+    "delayedShipments": 19,
+    "inventoryHealth": 58,
+    "supplierRisk": 82,
+    "forecastAlert": "High shortage probability for Fiber Cable 5G in 10 days",
+    "riskDrivers": ["Port congestion", "Supplier lead time variance", "Demand spike"],
+    "severity": "critical"
+  },
+  {
+    "id": "saudi-riyadh",
+    "country": "Saudi Arabia",
+    "region": "Riyadh Industrial Belt",
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "delayedShipments": 12,
+    "inventoryHealth": 67,
+    "supplierRisk": 71,
+    "forecastAlert": "Tower Battery Unit buffer likely to dip below threshold",
+    "riskDrivers": ["Cross-border customs delay", "Single-source battery vendor"],
+    "severity": "warning"
+  },
+  {
+    "id": "egypt-cairo",
+    "country": "Egypt",
+    "region": "Greater Cairo Hub",
+    "lat": 30.0444,
+    "lng": 31.2357,
+    "delayedShipments": 15,
+    "inventoryHealth": 61,
+    "supplierRisk": 75,
+    "forecastAlert": "Network Router X2 replenishment is behind by 6 days",
+    "riskDrivers": ["Freight imbalance", "Aging warehouse infrastructure"],
+    "severity": "warning"
+  },
+  {
+    "id": "qatar-doha",
+    "country": "Qatar",
+    "region": "Doha Free Zone",
+    "lat": 25.2854,
+    "lng": 51.531,
+    "delayedShipments": 6,
+    "inventoryHealth": 83,
+    "supplierRisk": 46,
+    "forecastAlert": "Stable telecom materials outlook",
+    "riskDrivers": ["Moderate sea lane exposure"],
+    "severity": "healthy"
+  },
+  {
+    "id": "oman-muscat",
+    "country": "Oman",
+    "region": "Muscat Port Corridor",
+    "lat": 23.588,
+    "lng": 58.3829,
+    "delayedShipments": 9,
+    "inventoryHealth": 79,
+    "supplierRisk": 52,
+    "forecastAlert": "Cement Type-A demand trending upward",
+    "riskDrivers": ["Monsoon weather disruption"],
+    "severity": "healthy"
+  }
+]
